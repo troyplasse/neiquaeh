@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quaiphach.johnadvait.com/sitemap.xml
